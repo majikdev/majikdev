@@ -1,1 +1,4 @@
-Wow, this is a nice feature!
+Welcome to my GitHub profile! 
+
+It might look empty, but that is because most of my work is closed-source.<br>
+I develop games as a hobby, you can check them out on my [itch.io page](https://majikgames.itch.io/).
