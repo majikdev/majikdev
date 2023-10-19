@@ -12,8 +12,10 @@
 	"glyph-color": "black",
 	"in-kerning": [
 		"abceghiklmnopqrstuvwxyz k -1",
-		"frv j -2",
-		"il tf -1"
+		"il tf -1",
+		"r l -1",
+		"fr\"'*^`~ J -2",
+		"frv\"'*^`~ j -2"
 	],
 	"glyph-width": 5,
 	"glyph-height": 9,
